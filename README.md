@@ -29,7 +29,7 @@ The selected features were then used to train a Random Forest Regressor model. T
 
 ## Deployment
 
-The complete package, including data preprocessing, model training, and prediction, was deployed using Streamlit. Streamlit is a powerful tool for building interactive web applications with Python.
+The complete package, including data preprocessing, model training, and prediction, was deployed using Streamlit available at [https://www.flight-prediction.streamlit.app](https://www.flight-prediction.streamlit.app/)
 
 ## Acknowledgments
 
