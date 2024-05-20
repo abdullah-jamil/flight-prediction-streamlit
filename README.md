@@ -29,7 +29,7 @@ The selected features were then used to train a Random Forest Regressor model. T
 
 ## Deployment
 
-The complete package, including data preprocessing, model training, and prediction, was deployed using Streamlit available at [https://www.flight-prediction.streamlit.app](https://www.flight-prediction.streamlit.app/)
+The complete package, including data preprocessing, model training, and prediction, was deployed using Streamlit available at [https://flight-prediction.streamlit.app](https://flight-prediction.streamlit.app/)
 
 ## Acknowledgments
 
