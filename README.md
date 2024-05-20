@@ -1,13 +1,16 @@
 # Flight Price Prediction
 
-This project aims to predict flight prices using machine learning techniques. The dataset used in this project is the "Flights" dataset downloaded from Kaggle.
+This project aims to predict flight prices using machine learning techniques. The dataset used in this project is the "Flights" dataset downloaded from Kaggle. The model is deployed using Streamlit and is available at [https://flight-prediction.streamlit.app](https://flight-prediction.streamlit.app/).
+
+<img width="1399" alt="Screenshot 2024-05-21 at 12 36 23 AM" src="https://github.com/abdullah-jamil/flight-prediction-streamlit/assets/94765139/52453758-639d-49b9-a2d2-ccb6b83412dd">
+
 
 ## Data Cleaning
 
 The first step in the project was data cleaning. This involved the following steps:
 
 - Removing duplicate entries from the dataset.
-- Applying the `.assign()` function wherever needed to create new columns or modify existing ones.
+- Applying the `.assign(), .split() & lambda` function wherever needed to create new columns or modify existing ones.
 
 ## Exploratory Data Analysis (EDA)
 
@@ -29,7 +32,7 @@ The selected features were then used to train a Random Forest Regressor model. T
 
 ## Deployment
 
-The complete package, including data preprocessing, model training, and prediction, was deployed using Streamlit available at [https://flight-prediction.streamlit.app](https://flight-prediction.streamlit.app/)
+The complete package, including data preprocessing, model training, and prediction, was deployed using Streamlit. Streamlit is a powerful tool for building interactive web applications with Python.
 
 ## Acknowledgments
 
